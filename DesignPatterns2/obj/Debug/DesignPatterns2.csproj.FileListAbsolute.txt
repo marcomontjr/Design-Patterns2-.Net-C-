@@ -1,0 +1,7 @@
+C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\DesignPatterns2\DesignPatterns2\obj\Debug\DesignPatterns2.csprojAssemblyReference.cache
+C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\DesignPatterns2\DesignPatterns2\obj\Debug\DesignPatterns2.csproj.CoreCompileInputs.cache
+C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\DesignPatterns2\DesignPatterns2\bin\Debug\DesignPatterns2.exe.config
+C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\DesignPatterns2\DesignPatterns2\bin\Debug\DesignPatterns2.exe
+C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\DesignPatterns2\DesignPatterns2\bin\Debug\DesignPatterns2.pdb
+C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\DesignPatterns2\DesignPatterns2\obj\Debug\DesignPatterns2.exe
+C:\Users\Marco Jr\Documents\Visual Studio 2017\Projects\DesignPatterns2\DesignPatterns2\obj\Debug\DesignPatterns2.pdb
